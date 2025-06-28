@@ -37,3 +37,16 @@ Open your terminal or command prompt and run:
 
 ```bash
 pip install streamlit pandas numpy requests
+```
+### Step 2: Download Project Files
+
+Make sure app.py and zones.py are in the same directory.
+
+### Step 3: Run the Application
+Execute the following command in your terminal or command prompt:
+
+```bash
+streamlit run app.py
+```
+
+### Hope ypu enjoy!!
